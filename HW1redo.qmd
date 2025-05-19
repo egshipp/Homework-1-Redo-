@@ -9,7 +9,7 @@ editor: visual
 
 -   Data science is about taking data in whatever form it may be in, in some cases it may be considered clean and perfect while in other cases it must be wrangled significantly. Next, the data scientist must go through an iterative process of transforming, modeling, and visualizing the data until the questions of interest are sufficiently answered.
 
--   Differences between data scientists and statisticians:
+-   Differences between data scientists and statisticians
 
 1.  Education level requirements are much more broad for data scientists while statisticians generally require a degree in mathematics or statistics.
 
